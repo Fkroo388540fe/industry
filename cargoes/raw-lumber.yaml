@@ -1,0 +1,17 @@
+abbreviation: LR
+available: false
+classes: 32
+colour: 26
+id: 0
+label: LMBR
+longName: raw lumber
+name: Raw Lumber
+penaltyLength: 255
+penaltyLowerBound: 0
+price: 21588
+sprite:
+  filename: cargoes/raw-lumber.png
+  left: 0
+  top: 0
+unitName: Items
+weight: 8
